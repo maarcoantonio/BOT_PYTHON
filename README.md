@@ -28,9 +28,7 @@
 - [x] Envio automático do arquivo .xlsx por e-mail
 
 
-<p align="center">
-    <img width="460" height="300" src="C:\\Users\\Marco\\Documents\\PROG_Python\\FII's\\Animação.gif">
-</p>
+
 
 # Pré-Requisitos
 
